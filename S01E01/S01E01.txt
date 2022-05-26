@@ -1,0 +1,1526 @@
+0001 <NTS>
+0002 There is nothing to tell!
+0003 <DEC>
+0004 <NLL>
+0005 <NLL>
+0006 <FLL>
+0007 360.23
+0008 66.18
+0009 0.28
+0010 <CWN>
+0011 <STH>
+0012 <NGT>
+0013 <SHK>
+0014 cafe
+0015 <TSS>
+0016 There is gotta be something wrong with him!
+0017 <DEC>
+0018 <DTP>
+0019 <NLL>
+0020 <FLR>
+0021 143.99
+0022 66.04
+0023 -1
+0024 <CWL>
+0025 <WAV>
+0026 <NTL>
+0027 <SHK>
+0028 cafe
+0029 <TSS>
+0030 Wait, does he eat chalk?
+0031 <QUE>
+0032 <CTP>
+0033 wait
+0034 <FLR>
+0035 268.81
+0036 65.56
+0037 1.61
+0038 <CWL>
+0039 <SCH>
+0040 <NTL>
+0041 <TRN>
+0042 cafe
+0043 <NTS>
+0044 Just, because I do not want her to go through what I went through with Carl.
+0045 <DEC>
+0046 <NLL>
+0047 just, because
+0048 <RFL>
+0049 301.41
+0050 65.42
+0051 -1
+0052 <CWN>
+0053 <SCH>
+0054 <NGT>
+0055 <TRN>
+0056 cafe
+0057 <TSS>
+0058 Okay, everybody relax. This is not even a date.
+0059 <DEC>
+0060 <PTP>
+0061 okay
+0062 <FLL>
+0063 272.70
+0064 68.91
+0065 0.59
+0066 <CWL>
+0067 <STH>
+0068 <NTL>
+0069 <TRN>
+0070 cafe
+0071 <NTS>
+0072 It is just two people going out to dinner, and not having sex.
+0073 <DEC>
+0074 <NLL>
+0075 <NLL>
+0076 <RSE>
+0077 275.30
+0078 66.24
+0079 0.31
+0080 <CWL>
+0081 <STH>
+0082 <NTL>
+0083 <TRN>
+0084 cafe
+0085 <NTS>
+0086 Sounds like a date to me.
+0087 <IMP>
+0088 <NLL>
+0089 <NLL>
+0090 <RSE>
+0091 143.11
+0092 67.48
+0093 -1
+0094 <CWN>
+0095 <NLL>
+0096 <NTL>
+0097 <NRS>
+0098 cafe
+0099 <NTS>
+0100 Then I look down, and I realize there is a phone there.
+0101 <DEC>
+0102 <NLL>
+0103 then
+0104 <RFL>
+0105 193.47
+0106 65.73
+0107 1.78
+0108 <CWN>
+0109 <SCH>
+0110 <PST>
+0111 <SHK>
+0112 cafe
+0113 <NTS>
+0114 Instead of..?
+0115 <QUE>
+0116 <NLL>
+0117 <NLL>
+0118 <LVL>
+0119 138.01
+0120 66.69
+0121 -1
+0122 <CWN>
+0123 <POT>
+0124 <NGT>
+0125 <NLL>
+0126 cafe
+0127 <NTS>
+0128 That is right.
+0129 <DEC>
+0130 <NLL>
+0131 <NLL>
+0132 <FLL>
+0133 249.87
+0134 71.32
+0135 -1
+0136 <CWL>
+0137 <NLL>
+0138 <NTL>
+0139 <NOD>
+0140 cafe
+0141 <NTS>
+0142 All of a sudden, the phone starts to ring.
+0143 <DEC>
+0144 <NLL>
+0145 <NLL>
+0146 <RFL>
+0147 210.29
+0148 66.83
+0149 1.91
+0150 <CWN>
+0151 <SCH>
+0152 <PST>
+0153 <NRS>
+0154 cafe
+0155 <TSS>
+0156 Are you okay, sweet?
+0157 <QUE>
+0158 <NTP>
+0159 <NLL>
+0160 <RSE>
+0161 291.02
+0162 63.63
+0163 -1
+0164 <CWL>
+0165 <TCH>
+0166 <PST>
+0167 <NLL>
+0168 cafe
+0169 <NTS>
+0170 I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth, and tied it around my neck.
+0171 <DEC>
+0172 <NLL>
+0173 <NLL>
+0174 <LVL>
+0175 164.36
+0176 66.70
+0177 -1
+0178 <CWN>
+0179 <CCH>
+0180 <NGT>
+0181 <NLL>
+0182 cafe
+0183 <TSS>
+0184 Cookie?
+0185 <QUE>
+0186 <NTP>
+0187 <NLL>
+0188 <RSE>
+0189 232.77
+0190 66.75
+0191 -1
+0192 <CWL>
+0193 <SHO>
+0194 <NTL>
+0195 <TRN>
+0196 cafe
+0197 <TSS>
+0198 Carol moved her stuff out today.
+0199 <DEC>
+0200 <CTP>
+0201 <NLL>
+0202 <FLL>
+0203 229.04
+0204 65.37
+0205 -1
+0206 <CWL>
+0207 <STH>
+0208 <NTL>
+0209 <NRS>
+0210 cafe
+0211 <NTS>
+0212 Let me get you some coffee.
+0213 <IMP>
+0214 <NLL>
+0215 <NLL>
+0216 <FLL>
+0217 229.65
+0218 65.13
+0219 -1
+0220 <CWN>
+0221 <POT>
+0222 <NTL>
+0223 <TRN>
+0224 cafe
+0225 <TSS>
+0226 Ssss, ew.
+0227 <DEC>
+0228 <DTP>
+0229 Ssss, ew
+0230 <RFL>
+0231 260.45
+0232 64.17
+0233 0.42
+0234 <CWL>
+0235 <CCH>
+0236 <NGT>
+0237 <NLL>
+0238 cafe
+0239 <NTS>
+0240 No, no do not! Stop cleansing my aura!
+0241 <IMP>
+0242 <NLL>
+0243 no
+0244 <FLL>
+0245 204.00
+0246 68.12
+0247 1.69
+0248 <CWN>
+0249 <STH>
+0250 <NGT>
+0251 <SHK>
+0252 cafe
+0253 <NTS>
+0254 Really, everyone, I hope she will be very happy.
+0255 <DEC>
+0256 <NLL>
+0257 <NLL>
+0258 <RFL>
+0259 213.06
+0260 66.86
+0261 -1
+0262 <CWN>
+0263 <SCH>
+0264 <NGT>
+0265 <NRS>
+0266 cafe
+0267 <NTS>
+0268 No, I do not to hell with her, she left me!
+0269 <DEC>
+0270 <NLL>
+0271 no
+0272 <FLL>
+0273 222.44
+0274 68.28
+0275 -1
+0276 <CWL>
+0277 <POT>
+0278 <NGT>
+0279 <NLL>
+0280 cafe
+0281 <TSS>
+0282 And you never knew she was a lesbian.
+0283 <DEC>
+0284 <CTP>
+0285 and
+0286 <RFL>
+0287 188.93
+0288 66.28
+0289 -1
+0290 <CWN>
+0291 <WAV>
+0292 <NGT>
+0293 <SHK>
+0294 cafe
+0295 <TSS>
+0296 Alright Ross, look.
+0297 <IMP>
+0298 <PTP>
+0299 alright, <NME>, look
+0300 <LVL>
+0301 127.48
+0302 66.89
+0303 1
+0304 <CWN>
+0305 <WAV>
+0306 <NTL>
+0307 <NOD>
+0308 cafe
+0309 <TSS>
+0310 Can I tell you what the answer is?
+0311 <QUE>
+0312 <CTP>
+0313 <NLL>
+0314 <RSE>
+0315 131.59
+0316 64.74
+0317 1.10
+0318 <CWL>
+0319 <SCH>
+0320 <NTL>
+0321 <NOD>
+0322 cafe
+0323 <TSS>
+0324 Rachel?
+0325 <QUE>
+0326 <NTP>
+0327 <NME>
+0328 <RSE>
+0329 349.82
+0330 66.74
+0331 -1
+0332 <CWL>
+0333 <NLL>
+0334 <NTL>
+0335 <NLL>
+0336 cafe
+0337 <TSS>
+0338 Okay, everybody, this is Rachel.
+0339 <DEC>
+0340 <NTP>
+0341 Okay
+0342 <RSE>
+0343 302.60
+0344 65.83
+0345 -1
+0346 <CWN>
+0347 <SCH>
+0348 <PST>
+0349 <TRN>
+0350 cafe
+0351 <TSS>
+0352 So you wanna tell us now, or are we waiting for four wet bridesmaids?
+0353 <QUE>
+0354 <NTP>
+0355 so
+0356 <RFL>
+0357 232.79
+0358 66.80
+0359 -1
+0360 <CWL>
+0361 <STH>
+0362 <PST>
+0363 <SHK>
+0364 cafe
+0365 <NTS>
+0366 It started about a half hour before the wedding.
+0367 <DEC>
+0368 <NLL>
+0369 <NLL>
+0370 <LVL>
+0371 328.80
+0372 68.16
+0373 1.08
+0374 <CWL>
+0375 <STH>
+0376 <NGT>
+0377 <TRN>
+0378 cafe
+0379 <NTS>
+0380 I was in the room where we were keeping all the presents. I was in the room where we were keeping all the presents.
+0381 <DEC>
+0382 <NLL>
+0383 <NLL>
+0384 <RSE>
+0385 350.02
+0386 68.24
+0387 0.76
+0388 <CWN>
+0389 <STH>
+0390 <NGT>
+0391 <TRN>
+0392 cafe
+0393 <NTS>
+0394 Anyway, i just had to get out of there, and I started wondering why am I doing this, and who am I doing this for.
+0395 <DEC>
+0396 <NLL>
+0397 anyway
+0398 <FLL>
+0399 357.20
+0400 66.26
+0401 -1
+0402 <CWN>
+0403 <ROT>
+0404 <NGT>
+0405 <SHK>
+0406 cafe
+0407 <TSS>
+0408 So anyway I just did not know where to go, and I know that you and I have kinda drifted apart, but you are the only person I knew who lived here in the city.
+0409 <DEC>
+0410 <DTP>
+0411 so, anyway
+0412 <LVL>
+0413 281.37
+0414 64.42
+0415 -1
+0416 <CWL>
+0417 <WAV>
+0418 <NGT>
+0419 <SHK>
+0420 cafe
+0421 <NTS>
+0422 Who was not invited to the wedding.
+0423 <DEC>
+0424 <NLL>
+0425 <NLL>
+0426 <FLL>
+0427 203.03
+0428 67.14
+0429 -1
+0430 <CWN>
+0431 <NLL>
+0432 <NGT>
+0433 <SHK>
+0434 cafe
+0435 <NTS>
+0436 I say push her down the stairs.
+0437 <DEC>
+0438 <NLL>
+0439 <NLL>
+0440 <FLL>
+0441 162.64
+0442 66.68
+0443 -1
+0444 <CWN>
+0445 <SCH>
+0446 <PST>
+0447 <NLL>
+0448 living room
+0449 <NTS>
+0450 You can see where he would have trouble.
+0451 <DEC>
+0452 <NLL>
+0453 <NLL>
+0454 <RFL>
+0455 189.02
+0456 65.88
+0457 -1
+0458 <CWL>
+0459 <POT>
+0460 <NGT>
+0461 <NOD>
+0462 living room
+0463 <NTS>
+0464 Well, I guess we have established who is staying here with Monica.
+0465 <DEC>
+0466 <NLL>
+0467 well
+0468 <LVL>
+0469 232.85
+0470 67.10
+0471 -1
+0472 <CWN>
+0473 <STH>
+0474 <PST>
+0475 <TRN>
+0476 living room
+0477 <NTS>
+0478 Just try to think of nice calm things.
+0479 <IMP>
+0480 <NLL>
+0481 just
+0482 <FLL>
+0483 257.24
+0484 64.70
+0485 -1
+0486 <CWL>
+0487 <ROT>
+0488 <PST>
+0489 <NOD>
+0490 living room
+0491 <TSS>
+0492 Okay, look, this is probably for the best, you know?
+0493 <QUE>
+0494 <NTP>
+0495 okay, look
+0496 <RSE>
+0497 306.09
+0498 64.42
+0499 -1
+0500 <CWL>
+0501 <TCH>
+0502 <PST>
+0503 <NOD>
+0504 living room
+0505 <NTS>
+0506 Taking control of your life.
+0507 <IMP>
+0508 <NLL>
+0509 <NLL>
+0510 <FLL>
+0511 269.25
+0512 67.67
+0513 -1
+0514 <CWL>
+0515 <TCH>
+0516 <PST>
+0517 <NRS>
+0518 living room
+0519 <TSS>
+0520 And hey, you need anything, you can always come to Joey.
+0521 <DEC>
+0522 <CTP>
+0523 and, hey
+0524 <FLL>
+0525 129.88
+0526 66.69
+0527 0.57
+0528 <CWL>
+0529 <TCH>
+0530 <PST>
+0531 <NOD>
+0532 living room
+0533 <NTS>
+0534 Joey, stop hitting on her.
+0535 <IMP>
+0536 <NLL>
+0537 <NME>
+0538 <RFL>
+0539 343.98
+0540 67.99
+0541 -1
+0542 <CWL>
+0543 <SCH>
+0544 <NGT>
+0545 <SHK>
+0546 living room
+0547 <NTS>
+0548 Who is Paul?
+0549 <QUE>
+0550 <NLL>
+0551 <NLL>
+0552 <RFL>
+0553 188.02
+0554 66.44
+0555 -1
+0556 <CWL>
+0557 <STH>
+0558 <NTL>
+0559 <TRN>
+0560 living room
+0561 <NTS>
+0562 Paul the Wine Guy, Paul?
+0563 <QUE>
+0564 <NLL>
+0565 <NME>
+0566 <RSE>
+0567 224.06
+0568 68.48
+0569 -1
+0570 <CWL>
+0571 <POT>
+0572 <PST>
+0573 <NLL>
+0574 living room
+0575 <TSS>
+0576 Rach, wait, I can cancel.
+0577 <DEC>
+0578 <PTP>
+0579 wait
+0580 <FLL>
+0581 308.61
+0582 64.83
+0583 -1
+0584 <CWL>
+0585 <STH>
+0586 <PST>
+0587 <SHK>
+0588 living room
+0589 <TSS>
+0590 Are, are you okay? I mean, do you want me to stay?
+0591 <QUE>
+0592 <PTP>
+0593 <NLL>
+0594 <RSE>
+0595 272.01
+0596 66.96
+0597 -1
+0598 <CWL>
+0599 <STH>
+0600 <NGT>
+0601 <TRN>
+0602 living room
+0603 <NTS>
+0604 That would be good.
+0605 <DEC>
+0606 <NLL>
+0607 <NLL>
+0608 <FLL>
+0609 157.22
+0610 68.33
+0611 -1
+0612 <CWN>
+0613 <STH>
+0614 <NGT>
+0615 <NOD>
+0616 living room
+0617 <TSS>
+0618 Hi, come in! Paul, this is...
+0619 <IMP>
+0620 <NTP>
+0621 hi
+0622 <FLL>
+0623 324.53
+0624 65.89
+0625 1.40
+0626 <CWN>
+0627 <POT>
+0628 <PST>
+0629 <TRN>
+0630 living room
+0631 <TSS>
+0632 So Rachel, what are you, uh... what are you up to tonight?
+0633 <QUE>
+0634 <NTP>
+0635 so, <NME>
+0636 <FLL>
+0637 151.07
+0638 65.42
+0639 0.11
+0640 <CWL>
+0641 <SCH>
+0642 <NTL>
+0643 <NOD>
+0644 living room
+0645 <TSS>
+0646 This was Carol's favorite beer.
+0647 <DEC>
+0648 <NTP>
+0649 <NLL>
+0650 <LVL>
+0651 138.38
+0652 66.65
+0653 2.47
+0654 <CWL>
+0655 <SHO>
+0656 <NGT>
+0657 <NLL>
+0658 living room
+0659 <TSS>
+0660 Ross, let me ask you a question
+0661 <IMP>
+0662 <NTP>
+0663 <NME>
+0664 <FLL>
+0665 186.18
+0666 66.24
+0667 0.3
+0668 <CWL>
+0669 <POT>
+0670 <NTL>
+0671 <NOD>
+0672 living room
+0673 <NTS>
+0674 I know, I know, I am such an idiot.
+0675 <DEC>
+0676 <NLL>
+0677 I know
+0678 <RFL>
+0679 167.36
+0680 66.87
+0681 1.16
+0682 <CWL>
+0683 <STH>
+0684 <PST>
+0685 <TRN>
+0686 restaurant
+0687 <NTS>
+0688 I mean, how clean can teeth get?
+0689 <QUE>
+0690 <NLL>
+0691 I mean
+0692 <LVL>
+0693 130.22
+0694 68.61
+0695 -1
+0696 <CWL>
+0697 <WAV>
+0698 <NTL>
+0699 <TRN>
+0700 restaurant
+0701 <NTS>
+0702 How did you get through it?
+0703 <QUE>
+0704 <NLL>
+0705 <NLL>
+0706 <RFL>
+0707 255.23
+0708 67.85
+0709 -1
+0710 <CWL>
+0711 <SCH>
+0712 <NTL>
+0713 <NRS>
+0714 restaurant
+0715 <TSS>
+0716 You know what the scariest part is?
+0717 <QUE>
+0718 <NTP>
+0719 <NLL>
+0720 <FLR>
+0721 271.26
+0722 68.42
+0723 -1
+0724 <CWN>
+0725 <WAV>
+0726 <NGT>
+0727 <SHK>
+0728 living room
+0729 <TSS>
+0730 What are you talking about? 'One woman?'
+0731 <QUE>
+0732 <CTP>
+0733 <NLL>
+0734 <FLL>
+0735 180.91
+0736 65.54
+0737 2.79
+0738 <CWL>
+0739 <STH>
+0740 <NGT>
+0741 <SHK>
+0742 living room
+0743 <NTS>
+0744 Let me tell you something, Ross.
+0745 <IMP>
+0746 <NLL>
+0747 <NME>
+0748 <LVL>
+0749 140.84
+0750 66.02
+0751 0.36
+0752 <CWL>
+0753 <SHO>
+0754 <NTL>
+0755 <NOD>
+0756 living room
+0757 <NTS>
+0758 There is lots of flavors out there.
+0759 <DEC>
+0760 <NLL>
+0761 <NLL>
+0762 <LVL>
+0763 137.19
+0764 68.43
+0765 -1
+0766 <CWL>
+0767 <POT>
+0768 <NTL>
+0769 <NOD>
+0770 living room
+0771 <NTS>
+0772 You got married, you were, like, what, eight?
+0773 <DEC>
+0774 <NLL>
+0775 <NLL>
+0776 <RSE>
+0777 158.59
+0778 68.03
+0779 -1
+0780 <CWL>
+0781 <STH>
+0782 <PST>
+0783 <TRN>
+0784 living room
+0785 <NTS>
+0786 Welcome back to the world! Grab a spoon!
+0787 <IMP>
+0788 <NLL>
+0789 <NLL>
+0790 <RFL>
+0791 225.12
+0792 68.81
+0793 -1
+0794 <CWL>
+0795 <TCH>
+0796 <PST>
+0797 <NLL>
+0798 living room
+0799 <TSS>
+0800 No, it is more of a fifth date kinda revelation.
+0801 <DEC>
+0802 <NTP>
+0803 no
+0804 <LVL>
+0805 105.54
+0806 65.91
+0807 -1
+0808 <CWL>
+0809 <WAV>
+0810 <PST>
+0811 <SHK>
+0812 restaurant
+0813 <NTS>
+0814 Oh, so, there is gonna be a fifth date?
+0815 <QUE>
+0816 <NLL>
+0817 oh, so
+0818 <RSE>
+0819 182.90
+0820 63.09
+0821 0.72
+0822 <CWL>
+0823 <NLL>
+0824 <PST>
+0825 <TRN>
+0826 restaurant
+0827 <NTS>
+0828 Yeah, yeah, I think there is.
+0829 <DEC>
+0830 <NLL>
+0831 yeah
+0832 <RFL>
+0833 239.39
+0834 65.67
+0835 0.19
+0836 <CWL>
+0837 <NLL>
+0838 <PST>
+0839 <NOD>
+0840 restaurant
+0841 <TSS>
+0842 What were you gonna say?
+0843 <QUE>
+0844 <PTP>
+0845 <NLL>
+0846 <RSE>
+0847 272.33
+0848 68.22
+0849 -1
+0850 <CWL>
+0851 <STH>
+0852 <PST>
+0853 <SHK>
+0854 restaurant
+0855 <NTS>
+0856 I know being spit on is probably not what you need right now.
+0857 <DEC>
+0858 <NLL>
+0859 I know
+0860 <RFL>
+0861 265.14
+0862 67.00
+0863 3.38
+0864 <CWL>
+0865 <SCH>
+0866 <NGT>
+0867 <NRS>
+0868 restaurant
+0869 <NTS>
+0870 Wow, I am, I am glad you smashed her watch!
+0871 <DEC>
+0872 <NLL>
+0873 wow
+0874 <RSE>
+0875 248.23
+0876 66.57
+0877 1.26
+0878 <CWL>
+0879 <STH>
+0880 <PST>
+0881 <SHK>
+0882 restaurant
+0883 <TSS>
+0884 You know, here is the thing.
+0885 <DEC>
+0886 <NTP>
+0887 you know
+0888 <FLL>
+0889 228.20
+0890 66.75
+0891 0.58
+0892 <CWN>
+0893 <WAV>
+0894 <NGT>
+0895 <NRS>
+0896 living room
+0897 <TSS>
+0898 Isn't this amazing?
+0899 <QUE>
+0900 <NTP>
+0901 <NLL>
+0902 <RSE>
+0903 333.25
+0904 68.95
+0905 0.26
+0906 <CWN>
+0907 <SHO>
+0908 <PST>
+0909 <NLL>
+0910 dining room
+0911 <TSS>
+0912 We will talk later.
+0913 <DEC>
+0914 <DTP>
+0915 <NLL>
+0916 <LVL>
+0917 229.04
+0918 66.67
+0919 -1
+0920 <CWL>
+0921 <TCH>
+0922 <PST>
+0923 <NLL>
+0924 outdoor
+0925 <TSS>
+0926 That was not a real date?
+0927 <QUE>
+0928 <PTP>
+0929 <NLL>
+0930 <LVL>
+0931 173.69
+0932 66.67
+0933 2.38
+0934 <CWL>
+0935 <CCH>
+0936 <PST>
+0937 <NRS>
+0938 living room
+0939 <TSS>
+0940 Shut up, and put my table back.
+0941 <IMP>
+0942 <DTP>
+0943 <NLL>
+0944 <FLL>
+0945 248.02
+0946 64.93
+0947 -1
+0948 <CWL>
+0949 <POT>
+0950 <PST>
+0951 <NRS>
+0952 living room
+0953 <TSS>
+0954 All right, kids, I gotta get to work.
+0955 <DEC>
+0956 <NTP>
+0957 all right
+0958 <LVL>
+0959 181.98
+0960 72
+0961 0.46
+0962 <CWN>
+0963 <CCH>
+0964 <NTL>
+0965 <NLL>
+0966 living room
+0967 <TSS>
+0968 So, like, you guys all have jobs?
+0969 <QUE>
+0970 <CTP>
+0971 so
+0972 <RFL>
+0973 384.71
+0974 65.88
+0975 -1
+0976 <CWL>
+0977 <WAV>
+0978 <PST>
+0979 <NLL>
+0980 living room
+0981 <NTS>
+0982 Yeah, we all have jobs.
+0983 <DEC>
+0984 <NLL>
+0985 yeah
+0986 <FLL>
+0987 264.24
+0988 66.75
+0989 0.46
+0990 <CWL>
+0991 <STH>
+0992 <PST>
+0993 <NLL>
+0994 living room
+0995 <NTS>
+0996 See, that is how we but stuff.
+0997 <DEC>
+0998 <NLL>
+0999 see
+1000 <RFL>
+1001 222.87
+1002 65.22
+1003 0.54
+1004 <CWL>
+1005 <ROT>
+1006 <PST>
+1007 <SHK>
+1008 living room
+1009 <TSS>
+1010 Wow! Would I have seen you in anything?
+1011 <QUE>
+1012 <CTP>
+1013 wow
+1014 <RSE>
+1015 319.77
+1016 64.85
+1017 -1
+1018 <CWL>
+1019 <NLL>
+1020 <PST>
+1021 <NLL>
+1022 living room
+1023 <NTS>
+1024 Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio.
+1025 <DEC>
+1026 <NLL>
+1027 oh, wait
+1028 <RSE>
+1029 286.23
+1030 65.95
+1031 0.46
+1032 <CWL>
+1033 <SCH>
+1034 <NTL>
+1035 <NOD>
+1036 living room
+1037 <TSS>
+1038 So how you doing today?
+1039 <QUE>
+1040 <NTP>
+1041 so
+1042 <FLL>
+1043 235.63
+1044 66.75
+1045 0.55
+1046 <CWL>
+1047 <TCH>
+1048 <PST>
+1049 <NLL>
+1050 living room
+1051 <NTS>
+1052 Did you sleep okay? Talk to Barry?
+1053 <QUE>
+1054 <NLL>
+1055 <NLL>
+1056 <RSE>
+1057 244.25
+1058 63.21
+1059 0.26
+1060 <CWL>
+1061 <TCH>
+1062 <PST>
+1063 <NLL>
+1064 living room
+1065 <TSS>
+1066 I can not stop smiling.
+1067 <DEC>
+1068 <NTP>
+1069 <NLL>
+1070 <LVL>
+1071 257.73
+1072 66.68
+1073 -1
+1074 <CWL>
+1075 <NLL>
+1076 <PST>
+1077 <SHK>
+1078 living room
+1079 <NTS>
+1080 I can see that, you look like you slept with a hanger in your mouth.
+1081 <DEC>
+1082 <NLL>
+1083 <NLL>
+1084 <RFL>
+1085 295.16
+1086 65.36
+1087 -1
+1088 <CWL>
+1089 <SHO>
+1090 <PST>
+1091 <NLL>
+1092 living room
+1093 <NTS>
+1094 I know, he is just so, so...
+1095 <DEC>
+1096 <NLL>
+1097 I know
+1098 <LVL>
+1099 297.08
+1100 66.56
+1101 1.25
+1102 <CWL>
+1103 <WAV>
+1104 <PST>
+1105 <SHK>
+1106 living room
+1107 <TSS>
+1108 Do you remember you and Tony DeMarco?
+1109 <QUE>
+1110 <NTP>
+1111 <NLL>
+1112 <LVL>
+1113 235.07
+1114 66.36
+1115 -1
+1116 <CWL>
+1117 <TCH>
+1118 <PST>
+1119 <NOD>
+1120 living room
+1121 <NTS>
+1122 Well, it is like that, with feelings.
+1123 <DEC>
+1124 <NLL>
+1125 well
+1126 <FLL>
+1127 173.68
+1128 63.54
+1129 -1
+1130 <CWL>
+1131 <SCH>
+1132 <PST>
+1133 <NOD>
+1134 living room
+1135 <NTS>
+1136 Wow, are you in trouble!
+1137 <DEC>
+1138 <NLL>
+1139 wow
+1140 <LVL>
+1141 316.44
+1142 67.00
+1143 -1
+1144 <CWL>
+1145 <NLL>
+1146 <NGT>
+1147 <SHK>
+1148 living room
+1149 <TSS>
+1150 Okay. Okay. I am just going to get up.
+1151 <DEC>
+1152 <NTP>
+1153 okay
+1154 <FLR>
+1155 253.17
+1156 66.83
+1157 0.7
+1158 <CWN>
+1159 <WAV>
+1160 <PST>
+1161 <NRS>
+1162 living room
+1163 <NTS>
+1164 Or else I am just gonna get up and go to work.
+1165 <DEC>
+1166 <NLL>
+1167 or
+1168 <RFL>
+1169 222.07
+1170 67.04
+1171 -1
+1172 <CWN>
+1173 <WAV>
+1174 <NTL>
+1175 <TRN>
+1176 living room
+1177 <TSS>
+1178 Oh, look, wish me luck.
+1179 <IMP>
+1180 <CTP>
+1181 oh, look
+1182 <RSE>
+1183 391.51
+1184 68.06
+1185 -1
+1186 <CWL>
+1187 <POT>
+1188 <PST>
+1189 <NLL>
+1190 living room
+1191 <NTS>
+1192 I am gonna go to get one of those job things.
+1193 <DEC>
+1194 <NLL>
+1195 <NLL>
+1196 <RFL>
+1197 323.81
+1198 66.25
+1199 1.02
+1200 <CWL>
+1201 <POT>
+1202 <PST>
+1203 <NLL>
+1204 living room
+1205 <TSS>
+1206 Hey, Monica!
+1207 <IMP>
+1208 <NTP>
+1209 hey, <NME>
+1210 <FLR>
+1211 257.61
+1212 66.15
+1213 -1
+1214 <CWL>
+1215 <STH>
+1216 <PST>
+1217 <NLL>
+1218 kitchen
+1219 <NTS>
+1220 How was Florida?
+1221 <QUE>
+1222 <NLL>
+1223 <NLL>
+1224 <FLL>
+1225 307.84
+1226 66.66
+1227 -1
+1228 <CWN>
+1229 <NLL>
+1230 <PST>
+1231 <NLL>
+1232 kitchen
+1233 <NTS>
+1234 You had sex, did not you?
+1235 <QUE>
+1236 <NLL>
+1237 <NLL>
+1238 <RFL>
+1239 308.64
+1240 64.89
+1241 -1
+1242 <CWL>
+1243 <NLL>
+1244 <PST>
+1245 <NLL>
+1246 kitchen
+1247 <NTS>
+1248 How do you do that?
+1249 <QUE>
+1250 <NLL>
+1251 <NLL>
+1252 <FLL>
+1253 393.50
+1254 69.39
+1255 -1
+1256 <CWL>
+1257 <NLL>
+1258 <NGT>
+1259 <NOD>
+1260 kitchen
+1261 <NTS>
+1262 Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+1263 <QUE>
+1264 <NLL>
+1265 <NLL>
+1266 <RSE>
+1267 304.30
+1268 67.69
+1269 0.60
+1270 <CWN>
+1271 <STH>
+1272 <NGT>
+1273 <TRN>
+1274 cafe
+1275 <NTS>
+1276 Alright, come here, give me your feet.
+1277 <IMP>
+1278 <NLL>
+1279 alright
+1280 <LVL>
+1281 289.27
+1282 65.65
+1283 -1
+1284 <CWL>
+1285 <SCH>
+1286 <NTL>
+1287 <TRN>
+1288 cafe
+1289 <NTS>
+1290 I can not believe you did not know it was a lie!
+1291 <QUE>
+1292 <NLL>
+1293 <NLL>
+1294 <LVL>
+1295 184.75
+1296 68.80
+1297 -1
+1298 <CWN>
+1299 <STH>
+1300 <PST>
+1301 <SHK>
+1302 cafe
+1303 <TSS>
+1304 Guess what?
+1305 <IMP>
+1306 <NTP>
+1307 <NLL>
+1308 <RSE>
+1309 443.90
+1310 68.50
+1311 -1
+1312 <CWN>
+1313 <SCH>
+1314 <PST>
+1315 <NLL>
+1316 cafe
+1317 <NTS>
+1318 Are you kidding?
+1319 <QUE>
+1320 <NLL>
+1321 <NLL>
+1322 <RSE>
+1323 388.82
+1324 66.74
+1325 0.13
+1326 <CWL>
+1327 <NLL>
+1328 <PST>
+1329 <SHK>
+1330 cafe
+1331 <NTS>
+1332 I am trained for nothing.
+1333 <DEC>
+1334 <NLL>
+1335 <NLL>
+1336 <FLL>
+1337 385.62
+1338 67.40
+1339 -1
+1340 <CWN>
+1341 <WAV>
+1342 <PST>
+1343 <SHK>
+1344 cafe
+1345 <TSS>
+1346 And yet you are surprisingly upbeat.
+1347 <DEC>
+1348 <CTP>
+1349 and; yet
+1350 <RSE>
+1351 213.80
+1352 69.06
+1353 -1
+1354 <CWL>
+1355 <NLL>
+1356 <NTL>
+1357 <SHK>
+1358 cafe
+1359 <TSS>
+1360 How did you pay for them?
+1361 <QUE>
+1362 <NTP>
+1363 <NLL>
+1364 <RFL>
+1365 313.72
+1366 66.03
+1367 -1
+1368 <CWN>
+1369 <NLL>
+1370 <NTL>
+1371 <NLL>
+1372 cafe
+1373 <TSS>
+1374 Come on, you can not live off your parents your whole life.
+1375 <DEC>
+1376 <CTP>
+1377 come on
+1378 <FLL>
+1379 275.11
+1380 65.98
+1381 -1
+1382 <CWL>
+1383 <SCH>
+1384 <PST>
+1385 <NRS>
+1386 living room
+1387 <NTS>
+1388 That is why I was getting married.
+1389 <DEC>
+1390 <NLL>
+1391 <NLL>
+1392 <RFL>
+1393 378.31
+1394 66.45
+1395 -1
+1396 <CWN>
+1397 <STH>
+1398 <NGT>
+1399 <NRS>
+1400 living room
+1401 <TSS>
+1402 I remember when I first came to this city.
+1403 <DEC>
+1404 <NTP>
+1405 <NLL>
+1406 <FLL>
+1407 213.55
+1408 64.92
+1409 -1
+1410 <CWL>
+1411 <SCH>
+1412 <PST>
+1413 <NRS>
+1414 living room
+1415 <TSS>
+1416 All right, you ready?
+1417 <QUE>
+1418 <CTP>
+1419 all right
+1420 <RSE>
+1421 203.40
+1422 67.55
+1423 -1
+1424 <CWL>
+1425 <SCH>
+1426 <NTL>
+1427 <NLL>
+1428 living room
+1429 <TSS>
+1430 Well, that is it.
+1431 <DEC>
+1432 <DTP>
+1433 well
+1434 <LVL>
+1435 256.69
+1436 69.89
+1437 1.70
+1438 <CWN>
+1439 <NLL>
+1440 <NTL>
+1441 <NLL>
+1442 living room
+1443 <TSS>
+1444 Hey Mon, look what I just found on the floor
+1445 <IMP>
+1446 <NTP>
+1447 hey, <NME>
+1448 <FLL>
+1449 342.13
+1450 59.62
+1451 0.26
+1452 <CWN>
+1453 <SHO>
+1454 <NTL>
+1455 <TRN>
+1456 living room
+1457 <TSS>
+1458 Alright.
+1459 <DEC>
+1460 <DTP>
+1461 alright
+1462 <LVL>
+1463 277.18
+1464 70.62
+1465 1.43
+1466 <CWN>
+1467 <SCH>
+1468 <NGT>
+1469 <NLL>
+1470 living room
+1471 <TSS>
+1472 You know you probably did not know this, but back in high school, I had a um.
+1473 <DEC>
+1474 <NTP>
+1475 you know
+1476 <LVL>
+1477 149.82
+1478 66.74
+1479 1.68
+1480 <CWN>
+1481 <SHO>
+1482 <NTL>
+1483 <NLL>
+1484 living room
+1485 <TSS>
+1486 Listen, do you think...
+1487 <QUE>
+1488 <CTP>
+1489 listen
+1490 <LVL>
+1491 206.99
+1492 66.80
+1493 1.43
+1494 <CWN>
+1495 <SCH>
+1496 <NTL>
+1497 <NLL>
+1498 living room
+1499 <TSS>
+1500 Wait, wait, hey, what is the deal?
+1501 <QUE>
+1502 <NTP>
+1503 wait, hey
+1504 <RFL>
+1505 228.03
+1506 65.29
+1507 -1
+1508 <CWL>
+1509 <SCH>
+1510 <PST>
+1511 <NLL>
+1512 living room
+1513 <TSS>
+1514 Would anybody like more coffee?
+1515 <QUE>
+1516 <NTP>
+1517 <NLL>
+1518 <RSE>
+1519 289.07
+1520 67.74
+1521 -1
+1522 <CWN>
+1523 <SHO>
+1524 <NTL>
+1525 <NLL>
+1526 cafe
